@@ -16,8 +16,7 @@ This project involves building a Multilayer Perceptron (MLP) model for classifyi
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Structure
-project-directory/ │ ├── data/ │ ├── train/ # Training dataset (e.g., MNIST) │ ├── test/ # Test dataset (e.g., MNIST) │ ├── models/ │ ├── my_model.h5 # Saved trained model │ ├── src/ │ ├── train_model.py # Script to train the model │ ├── evaluate_model.py # Script for evaluation │ ├── README.md # Project documentation └── requirements.txt # List of dependencies
+
 
 ruby
 Copy code
